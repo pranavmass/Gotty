@@ -1,4 +1,4 @@
-# Gotty-Remake
+# Gotty
 
 Welcome to Gotty-Remake, a project by Foxytouxxx that takes the classic Gotty tool to the next level! 🚀
 
