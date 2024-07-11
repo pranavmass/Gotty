@@ -23,11 +23,11 @@ Gotty-Remake transforms your command-line tools into interactive web application
 
 ## Getting Started
 
-To get started with Gotty-Remake, follow these simple steps:
+To get started with Gotty, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Foxytouxxx/Gotty-Remake.git
+   git clone https://github.com/pranavmass/Gotty.git
    ```
 
 2. **Build the Docker Image:**
@@ -38,7 +38,7 @@ To get started with Gotty-Remake, follow these simple steps:
 
 3. **Run the Container:**
    ```bash
-   docker run -p 8080:8080 gotty-remake
+   docker run -p 8080:8080 gotty
    ```
 
 4. **Access the Web Interface:**
@@ -51,6 +51,6 @@ We welcome contributions, bug reports, and suggestions to make Gotty-Remake even
 - Fork the repository.
 - Make your changes.
 - Submit a pull request.
-- Share your ideas in the [Issues](https://github.com/Foxytouxxx/Gotty-Remake/issues) section.
+- Share your ideas in the [Issues](https://github.com/pranavmass/Gotty/issues) section.
 
 Let's code, have fun, and make the command line cool again! 🤖🎉
